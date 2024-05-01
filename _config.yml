@@ -21,7 +21,7 @@ repository               : "pakman45/pakman450.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Steven Pak"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring full-stack developer with a background in computational drug design"
