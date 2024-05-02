@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Molecular and Cellular Pharmacology, Stony Brook University, 2025 (expected)
+* Pharm.D in Pharmacy, St. John's University, 2016
 
 Work experience
 ======
@@ -34,12 +33,25 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C++
+  * Python
+    * Matplotlib, Pandas
+  * Javascript
+* Manuscript Writing
+* Full-stack Development
+  * Front End
+    * React
+    * Tailwind CSS
+    * Daisy UI
+  * Back End
+    * Node.js
+    * Express.js
+    * PostGresQL
+    * Sequelize
+  * Deployment
+    * Docker and Docker-Compoose
+    * NGINX
 
 Publications
 ======
